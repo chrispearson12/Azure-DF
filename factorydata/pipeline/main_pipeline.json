@@ -1,5 +1,5 @@
 {
-	"name": "dev_pipeline",
+	"name": "main_pipeline",
 	"properties": {
 		"activities": [
 			{
