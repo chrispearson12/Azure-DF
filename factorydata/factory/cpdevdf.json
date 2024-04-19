@@ -1,0 +1,9 @@
+{
+	"name": "cpdevdf",
+	"location": "uksouth",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "179110b2-19db-4b79-b92a-396009ca6a10",
+		"tenantId": "1c4cc099-2198-4fe5-9d87-142859a3691e"
+	}
+}
